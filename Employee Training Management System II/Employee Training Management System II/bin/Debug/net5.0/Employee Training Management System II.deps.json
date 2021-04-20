@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Employee Training Management System II/1.0.0": {
+        "runtime": {
+          "Employee Training Management System II.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Employee Training Management System II/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

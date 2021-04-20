@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee Training Management System II", "Employee Training Management System II\Employee Training Management System II.csproj", "{0EEAD86C-BCB3-4BA1-A432-6F935C34FB17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EEAD86C-BCB3-4BA1-A432-6F935C34FB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EEAD86C-BCB3-4BA1-A432-6F935C34FB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EEAD86C-BCB3-4BA1-A432-6F935C34FB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEAD86C-BCB3-4BA1-A432-6F935C34FB17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82ABCA43-391E-4EC8-94C7-49AA7717C3B3}
+	EndGlobalSection
+EndGlobal

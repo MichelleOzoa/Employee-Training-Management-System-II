@@ -1,0 +1,16 @@
+C:\Users\MichelleAnnCOzoa\source\repos\Employee Training Management System II\Employee Training Management System II\bin\Debug\net5.0\Employee Training Management System II.exe
+C:\Users\MichelleAnnCOzoa\source\repos\Employee Training Management System II\Employee Training Management System II\bin\Debug\net5.0\Employee Training Management System II.deps.json
+C:\Users\MichelleAnnCOzoa\source\repos\Employee Training Management System II\Employee Training Management System II\bin\Debug\net5.0\Employee Training Management System II.runtimeconfig.json
+C:\Users\MichelleAnnCOzoa\source\repos\Employee Training Management System II\Employee Training Management System II\bin\Debug\net5.0\Employee Training Management System II.runtimeconfig.dev.json
+C:\Users\MichelleAnnCOzoa\source\repos\Employee Training Management System II\Employee Training Management System II\bin\Debug\net5.0\Employee Training Management System II.dll
+C:\Users\MichelleAnnCOzoa\source\repos\Employee Training Management System II\Employee Training Management System II\bin\Debug\net5.0\ref\Employee Training Management System II.dll
+C:\Users\MichelleAnnCOzoa\source\repos\Employee Training Management System II\Employee Training Management System II\bin\Debug\net5.0\Employee Training Management System II.pdb
+C:\Users\MichelleAnnCOzoa\source\repos\Employee Training Management System II\Employee Training Management System II\obj\Debug\net5.0\Employee Training Management System II.csprojAssemblyReference.cache
+C:\Users\MichelleAnnCOzoa\source\repos\Employee Training Management System II\Employee Training Management System II\obj\Debug\net5.0\Employee Training Management System II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MichelleAnnCOzoa\source\repos\Employee Training Management System II\Employee Training Management System II\obj\Debug\net5.0\Employee Training Management System II.AssemblyInfoInputs.cache
+C:\Users\MichelleAnnCOzoa\source\repos\Employee Training Management System II\Employee Training Management System II\obj\Debug\net5.0\Employee Training Management System II.AssemblyInfo.cs
+C:\Users\MichelleAnnCOzoa\source\repos\Employee Training Management System II\Employee Training Management System II\obj\Debug\net5.0\Employee Training Management System II.csproj.CoreCompileInputs.cache
+C:\Users\MichelleAnnCOzoa\source\repos\Employee Training Management System II\Employee Training Management System II\obj\Debug\net5.0\Employee Training Management System II.dll
+C:\Users\MichelleAnnCOzoa\source\repos\Employee Training Management System II\Employee Training Management System II\obj\Debug\net5.0\ref\Employee Training Management System II.dll
+C:\Users\MichelleAnnCOzoa\source\repos\Employee Training Management System II\Employee Training Management System II\obj\Debug\net5.0\Employee Training Management System II.pdb
+C:\Users\MichelleAnnCOzoa\source\repos\Employee Training Management System II\Employee Training Management System II\obj\Debug\net5.0\Employee Training Management System II.genruntimeconfig.cache
